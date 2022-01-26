@@ -1,0 +1,6 @@
+ID	Name		Salary
+1	Sharanya    12346.000000
+2	KAusik      2344.000000
+3	sfkajf      23423564.000000
+4	sfkaf;ak;a  234534.000000
+5	seinse      234225.000000

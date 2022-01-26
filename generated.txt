@@ -1,0 +1,2 @@
+The number is 12
+file is created and rewrited
